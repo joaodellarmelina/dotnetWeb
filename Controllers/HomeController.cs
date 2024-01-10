@@ -7,10 +7,11 @@ namespace dotnetWeb.Controllers
     public class HomeController : Controller
     {
 
-        public IActionResult index() { return View(); }
+        public IActionResult Index() { return View(); }
 
-        public IActionResult Filmes()
+        public IActionResult Filmes(string name)
         {
+            ViewData["name"] = "Hello" + name;
             return View();
         }
 
@@ -22,6 +23,11 @@ namespace dotnetWeb.Controllers
         public IActionResult Animes()
         {
             return View();
+        }
+
+        public string Joaovitor() {
+
+            return "My name is john and im the fastest and the greater of all time";
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
