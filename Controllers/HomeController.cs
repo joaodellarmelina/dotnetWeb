@@ -6,19 +6,20 @@ namespace dotnetWeb.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
+        public IActionResult index() { return View(); }
 
-        public IActionResult Index()
+        public IActionResult Filmes()
         {
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Series()
+        {
+            return View();
+        }
+
+        public IActionResult Animes()
         {
             return View();
         }

@@ -28,3 +28,4 @@ C:\Users\dev\source\repos\dotnetWeb\obj\Debug\net8.0\refint\dotnetWeb.dll
 C:\Users\dev\source\repos\dotnetWeb\obj\Debug\net8.0\dotnetWeb.pdb
 C:\Users\dev\source\repos\dotnetWeb\obj\Debug\net8.0\dotnetWeb.genruntimeconfig.cache
 C:\Users\dev\source\repos\dotnetWeb\obj\Debug\net8.0\ref\dotnetWeb.dll
+C:\Users\dev\source\repos\dotnetWeb\obj\Debug\net8.0\dotnetWeb.sourcelink.json
