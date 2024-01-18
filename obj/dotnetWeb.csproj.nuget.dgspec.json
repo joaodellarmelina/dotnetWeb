@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dev\\source\\repos\\dotnetWeb\\dotnetWeb.csproj": {}
+    "C:\\Users\\dev\\Desktop\\repo\\dotnetWeb\\dotnetWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dev\\source\\repos\\dotnetWeb\\dotnetWeb.csproj": {
+    "C:\\Users\\dev\\Desktop\\repo\\dotnetWeb\\dotnetWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dev\\source\\repos\\dotnetWeb\\dotnetWeb.csproj",
+        "projectUniqueName": "C:\\Users\\dev\\Desktop\\repo\\dotnetWeb\\dotnetWeb.csproj",
         "projectName": "dotnetWeb",
-        "projectPath": "C:\\Users\\dev\\source\\repos\\dotnetWeb\\dotnetWeb.csproj",
+        "projectPath": "C:\\Users\\dev\\Desktop\\repo\\dotnetWeb\\dotnetWeb.csproj",
         "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dev\\source\\repos\\dotnetWeb\\obj\\",
+        "outputPath": "C:\\Users\\dev\\Desktop\\repo\\dotnetWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config",

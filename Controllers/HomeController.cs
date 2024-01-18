@@ -9,7 +9,7 @@ namespace dotnetWeb.Controllers
 
         public IActionResult Index() { return View(); }
 
-        public IActionResult Filmes(string name)
+        public IActionResult youtube(string name)
         {
             ViewData["name"] = "Hello" + name;
             return View();
